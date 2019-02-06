@@ -1,8 +1,8 @@
-# awesome deep learning questions
+# awesome Deep Learning & Machine Learning questions
 
 ## 简介 / Introduction
 
-这个仓库收集整理了一些网站中（如知乎、Quora、Stack Exchange等）与深度学习相关的有价值的问题。
+这个仓库收集整理了一些网站中（如知乎、Quora、Reddit、Stack Exchange等）与深度学习、机器学习相关的有价值的问题。
 
 问题/答案摘录原则（暂定，反正有价值的问题/答案就欢迎提issue或者PR啦~）：
 
@@ -20,6 +20,32 @@
 
 ## 问题与答案 / Questions and Answers
 
+
+### 论文相关
+
+* 如何复现renset-based FCN的准确度（IoU）？https://www.zhihu.com/question/291057041
+
+
+### 书籍、资源、项目
+
+
+* 网络上深度学习、机器学习的在线课程是否值得学习？https://www.zhihu.com/question/267126994
+
+* 机器学习书籍选择?https://www.zhihu.com/question/31091250
+
+* GitHub 上有哪些有趣的关于 NLP 或者 DL 的项目？https://www.zhihu.com/question/36853910
+
+* 如何评价深度学习领域圣经“花书”Deep Learning的中文版？https://www.zhihu.com/question/62240525
+
+* 有哪些比较好的机器学习，深度学习的网络资源可利用？https://www.zhihu.com/question/43664024
+
+
+### 框架
+
+* Pytorch有什么节省内存（显存）的小技巧？https://www.zhihu.com/question/274635237
+
+
+### 未整理
 
 机器学习、深度学习领域有哪些被广泛提及但你不认同的结论或观点？https://www.zhihu.com/question/292134377
 
@@ -39,7 +65,6 @@
 优化理论能给深度学习带来怎样的革命？https://www.zhihu.com/question/310314918
 
 
-如何复现renset-based FCN的准确度（IoU）？https://www.zhihu.com/question/291057041
 
 
 在控制验证集不变的前提下，随着训练集样本数的增加，验证集准确率不升反降？https://www.zhihu.com/question/289025990
@@ -54,12 +79,6 @@
 CNN 中池化是否会丢失有价值特征信息？https://www.zhihu.com/question/284156420
 
 
-如何评价深度学习领域圣经“花书”Deep Learning的中文版？https://www.zhihu.com/question/62240525
-
-
-有哪些比较好的机器学习，深度学习的网络资源可利用？https://www.zhihu.com/question/43664024
-
-
 精确率、召回率、F1 值、ROC、AUC 各自的优缺点是什么？https://www.zhihu.com/question/30643044
 
 
@@ -69,13 +88,37 @@ CNN 中池化是否会丢失有价值特征信息？https://www.zhihu.com/questi
 目标检测领域还有什么可以做的？https://www.zhihu.com/question/280703314
 
 
-GitHub 上有哪些有趣的关于 NLP 或者 DL 的项目？https://www.zhihu.com/question/36853910
+机器学习在无线通信领域的研究意义？https://www.zhihu.com/question/296782869
 
 
-机器学习书籍选择?https://www.zhihu.com/question/31091250
+你为什么离开数据科学（Data Science）行业?https://www.zhihu.com/question/278539797
 
 
-网络上深度学习、机器学习的在线课程是否值得学习？https://www.zhihu.com/question/267126994
+小目标检测问题中“小目标”如何定义？其主要技术难点在哪？有哪些比较好的传统的或深度学习方法？https://www.zhihu.com/question/269877902
+
+
+机器学习、优化理论、统计分析、数据挖掘、神经网络、人工智能、模式识别之间的关系是什么？https://www.zhihu.com/question/20747381
+
+
+怎么选取训练神经网络时的Batch size?https://www.zhihu.com/question/61607442
+
+神经网络和图像处理近年来的发展与趋势是什么？https://www.zhihu.com/question/269303790
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
