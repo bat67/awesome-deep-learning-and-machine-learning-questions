@@ -47,8 +47,6 @@
 
 * 机器学习书籍选择?https://www.zhihu.com/question/31091250
 
-* GitHub 上有哪些有趣的关于 NLP 或者 DL 的项目？https://www.zhihu.com/question/36853910
-
 * 如何评价深度学习领域圣经“花书”Deep Learning的中文版？https://www.zhihu.com/question/62240525
 
 * 有哪些比较好的机器学习，深度学习的网络资源可利用？https://www.zhihu.com/question/43664024
@@ -124,7 +122,7 @@
 
 * 如何评价编程语言Julia 1.0？https://www.zhihu.com/question/289648396
 
-* 为什么谈论深度学习工具时，很少有人讨论matlab的神经网络工具包？https://www.zhihu.com/question/48676862132248676
+* 为什么谈论深度学习工具时，很少有人讨论matlab的神经网络工具包？https://www.zhihu.com/question/48676862
 
 
 
