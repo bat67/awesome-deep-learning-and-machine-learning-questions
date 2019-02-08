@@ -21,13 +21,27 @@
 ## 问题与答案 / Questions and Answers
 
 
-### 论文相关
+
+
+### 论文与科研
 
 * 如何复现renset-based FCN的准确度（IoU）？https://www.zhihu.com/question/291057041
 
+* 深度学习方面的科研工作中的实验代码有什么规范和写作技巧？如何妥善管理实验数据？https://www.zhihu.com/question/268193800
 
-### 书籍、资源、项目
+* 深度学习科研，如何高效进行代码和实验管理？https://www.zhihu.com/question/269707221
 
+* 人工智能从业者应该从哪里去寻找和阅读顶级论文？https://www.zhihu.com/question/303022763
+
+* 人工智能领域有哪些重要的学术会议和顶级实验室？https://www.zhihu.com/question/31617024
+
+
+
+
+
+
+
+### 书籍、资源、项目、数据集
 
 * 网络上深度学习、机器学习的在线课程是否值得学习？https://www.zhihu.com/question/267126994
 
@@ -39,10 +53,102 @@
 
 * 有哪些比较好的机器学习，深度学习的网络资源可利用？https://www.zhihu.com/question/43664024
 
+* GitHub 上有哪些有关图像处理或是机器学习的有趣项目？https://www.zhihu.com/question/36346612
 
-### 框架
+* GitHub 上有哪些有趣的关于 NLP 或者 DL 的项目？https://www.zhihu.com/question/36853910
+
+* 有哪些机器学习、图像识别方面的入门书籍？https://www.zhihu.com/question/20523667
+
+* 自己学习深度学习时，有哪些途径寻找数据集？https://www.zhihu.com/question/53655758
+
+
+
+
+
+
+### 神经网络
+
+* 为啥在训练神经网络时，梯度下降成为主流？https://www.zhihu.com/question/291963981
+
+* CNN 中池化是否会丢失有价值特征信息？https://www.zhihu.com/question/284156420
+
+* 卷积神经网络的卷积核大小、卷积层数、每层map个数都是如何确定下来的呢？https://www.zhihu.com/question/38098038
+
+* 怎么选取训练神经网络时的Batch size?https://www.zhihu.com/question/61607442
+
+* 是不是并不是所有问题都适合用神经网络预测？https://www.zhihu.com/question/277551944
+
+* 为什么都说神经网络是个黑箱？https://www.zhihu.com/question/263672028
+
+* 为什么神经网络同一套参数 训练出来的准确率不一样？https://www.zhihu.com/question/294058968
+
+
+
+
+
+### CV
+
+* 目标检测领域还有什么可以做的？https://www.zhihu.com/question/280703314
+
+* 小目标检测问题中“小目标”如何定义？其主要技术难点在哪？有哪些比较好的传统的或深度学习方法？https://www.zhihu.com/question/269877902
+
+* 神经网络和图像处理近年来的发展与趋势是什么？https://www.zhihu.com/question/269303790
+
+* 有关语义分割的奇技淫巧有哪些？https://www.zhihu.com/question/272988870
+
+
+
+
+
+
+
+### NLP
+
+* 为什么 Deep Learning 目前在 NLP 上还没有什么成功的应用？https://www.zhihu.com/question/20981008
+
+
+
+
+
+
+
+### 语言与框架
+
+* 如何有效地阅读PyTorch的源代码？https://www.zhihu.com/question/58253344
+
+* PyTorch中在反向传播前为什么要手动将梯度清零？https://www.zhihu.com/question/303070254
 
 * Pytorch有什么节省内存（显存）的小技巧？https://www.zhihu.com/question/274635237
+
+* 和 Python 相比，Matlab 能否成为深入学习数据挖掘的工具?https://www.zhihu.com/question/25508497
+
+* 如何评价编程语言Julia 1.0？https://www.zhihu.com/question/289648396
+
+* 为什么谈论深度学习工具时，很少有人讨论matlab的神经网络工具包？https://www.zhihu.com/question/48676862132248676
+
+
+
+
+
+
+### 强化学习
+
+* 强化学习（reinforcement learning)有什么好的开源项目、网站、文章推荐一下？https://www.zhihu.com/question/4923092answer/115011594
+
+
+
+
+
+
+### 数据科学
+
+* 数据分析师的前景怎么样?https://www.zhihu.com/question/305422763
+
+* 你为什么离开数据科学（Data Science）行业?https://www.zhihu.com/question/278539797
+
+
+
+
 
 
 ### 未整理
@@ -53,58 +159,37 @@
 目前主流的attention方法都有哪些？https://www.zhihu.com/question/68482809
 
 
-为什么神经网络同一套参数 训练出来的准确率不一样？https://www.zhihu.com/question/294058968
-
-
 深度学习调参有哪些技巧？https://www.zhihu.com/question/25097993
-
-
-为什么都说神经网络是个黑箱？https://www.zhihu.com/question/263672028
 
 
 优化理论能给深度学习带来怎样的革命？https://www.zhihu.com/question/310314918
 
 
-
-
 在控制验证集不变的前提下，随着训练集样本数的增加，验证集准确率不升反降？https://www.zhihu.com/question/289025990
-
-
-为啥在训练神经网络时，梯度下降成为主流？https://www.zhihu.com/question/291963981
 
 
 人工智能算法能否通过输出结果改进准确率？https://www.zhihu.com/question/296724405
 
 
-CNN 中池化是否会丢失有价值特征信息？https://www.zhihu.com/question/284156420
-
-
 精确率、召回率、F1 值、ROC、AUC 各自的优缺点是什么？https://www.zhihu.com/question/30643044
-
-
-卷积神经网络的卷积核大小、卷积层数、每层map个数都是如何确定下来的呢？https://www.zhihu.com/question/38098038
-
-
-目标检测领域还有什么可以做的？https://www.zhihu.com/question/280703314
 
 
 机器学习在无线通信领域的研究意义？https://www.zhihu.com/question/296782869
 
 
-你为什么离开数据科学（Data Science）行业?https://www.zhihu.com/question/278539797
-
-
-小目标检测问题中“小目标”如何定义？其主要技术难点在哪？有哪些比较好的传统的或深度学习方法？https://www.zhihu.com/question/269877902
-
-
 机器学习、优化理论、统计分析、数据挖掘、神经网络、人工智能、模式识别之间的关系是什么？https://www.zhihu.com/question/20747381
 
 
-怎么选取训练神经网络时的Batch size?https://www.zhihu.com/question/61607442
-
-神经网络和图像处理近年来的发展与趋势是什么？https://www.zhihu.com/question/269303790
+为什么所有号称聪明的人工智能产品都有点傻？https://www.zhihu.com/question/59378498
 
 
+如何理解神经网络中通过add的方式融合特征？https://www.zhihu.com/question/306213462
+
+
+人工智能在工业界用到的模型都是最前沿的吗？https://www.zhihu.com/question/304599202
+
+
+从事AI真的需要CS科班出身吗？https://www.zhihu.com/question/305531586
 
 
 
