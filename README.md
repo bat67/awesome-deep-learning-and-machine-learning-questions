@@ -1,8 +1,23 @@
-# awesome Deep Learning & Machine Learning questions
+- [Awesome Deep Learning / Machine Learning / Data Science / Reinforcement Learning Questions](#awesome-deep-learning--machine-learning--data-science--reinforcement-learning-questions)
+  - [简介 / Introduction](#简介--introduction)
+  - [问题与答案 / Questions and Answers](#问题与答案--questions-and-answers)
+    - [论文与科研](#论文与科研)
+    - [书籍、资源、项目、数据集](#书籍资源项目数据集)
+    - [语言与框架](#语言与框架)
+    - [神经网络](#神经网络)
+    - [CV](#cv)
+    - [NLP](#nlp)
+    - [强化学习](#强化学习)
+    - [数据科学](#数据科学)
+    - [面试](#面试)
+    - [未整理](#未整理)
+  - [TODO](#todo)
+
+# Awesome Deep Learning / Machine Learning / Data Science / Reinforcement Learning Questions
 
 ## 简介 / Introduction
 
-这个仓库收集整理了一些网站中（如知乎、Quora、Reddit、Stack Exchange等）与深度学习、机器学习相关的有价值的问题。
+这个仓库收集整理了一些网站中（如知乎、Quora、Reddit、Stack Exchange等）与机器学习、深度学习、强化学习、数据科学等相关的有价值的问题。
 
 问题/答案摘录原则（暂定，反正有价值的问题/答案就欢迎提issue或者PR啦~）：
 
@@ -35,6 +50,12 @@
 
 * 人工智能领域有哪些重要的学术会议和顶级实验室？https://www.zhihu.com/question/31617024
 
+* 深度学习入门必看的书和论文？有哪些必备的技能需学习？https://www.zhihu.com/question/31785984
+
+* 如何理解深度学习中的deconvolution networks？https://www.zhihu.com/question/43609045
+
+* 如何评价 Kaiming He 最新的 Mask R-CNN?https://www.zhihu.com/question/57403701
+
 
 
 
@@ -59,6 +80,47 @@
 
 * 自己学习深度学习时，有哪些途径寻找数据集？https://www.zhihu.com/question/53655758
 
+* 最近开始学习机器学习，不知道看哪本书比较好（PRML ESL or MLAPP）？https://www.zhihu.com/question/37868662
+
+* 深入机器学习应该从哪门课或哪本书开始？求推荐资源？https://www.zhihu.com/question/268099849
+
+* 机器学习的学习应该看哪些书籍？https://www.zhihu.com/question/22221180
+
+* 有哪些优秀的深度学习入门书籍？需要先学习机器学习吗？https://www.zhihu.com/question/36675272
+
+* 有什么深度学习数学基础书推荐？https://www.zhihu.com/question/41459109
+
+
+
+
+
+
+### 语言与框架
+
+* 如何有效地阅读PyTorch的源代码？https://www.zhihu.com/question/58253344
+
+* PyTorch中在反向传播前为什么要手动将梯度清零？https://www.zhihu.com/question/303070254
+
+* Pytorch有什么节省内存（显存）的小技巧？https://www.zhihu.com/question/274635237
+
+* 如何评价 PyTorch 1.0 Roadmap？https://www.zhihu.com/question/275682850
+
+* 如何评价PyTorch 1.0？https://www.zhihu.com/question/296983686
+
+* 如何评价PyTorch 1.0正式版？https://www.zhihu.com/question/305054691
+
+* PyTorch 有哪些坑/bug？https://www.zhihu.com/question/67209417
+
+* Pytorch1.0.0 有哪些坑？https://www.zhihu.com/question/305416101
+
+* 和 Python 相比，Matlab 能否成为深入学习数据挖掘的工具?https://www.zhihu.com/question/25508497
+
+* 如何评价编程语言Julia 1.0？https://www.zhihu.com/question/289648396
+
+* 为什么谈论深度学习工具时，很少有人讨论matlab的神经网络工具包？https://www.zhihu.com/question/48676862
+
+
+
 
 
 
@@ -80,6 +142,15 @@
 
 * 为什么神经网络同一套参数 训练出来的准确率不一样？https://www.zhihu.com/question/294058968
 
+* 请问人工神经网络中的activation function的作用具体是什么？为什么ReLu要好过于tanh和sigmoid function?https://www.zhihu.com/question/29021768
+
+* 为什么现在的CNN模型都是在GoogleNet、VGGNet或者AlexNet上调整的？https://www.zhihu.com/question/43370067
+
+* 如何理解神经网络中通过add的方式融合特征？https://www.zhihu.com/question/306213462
+
+
+
+
 
 
 
@@ -94,6 +165,8 @@
 
 * 有关语义分割的奇技淫巧有哪些？https://www.zhihu.com/question/272988870
 
+* 目前主流的attention方法都有哪些？https://www.zhihu.com/question/68482809
+
 
 
 
@@ -106,23 +179,6 @@
 
 
 
-
-
-
-
-### 语言与框架
-
-* 如何有效地阅读PyTorch的源代码？https://www.zhihu.com/question/58253344
-
-* PyTorch中在反向传播前为什么要手动将梯度清零？https://www.zhihu.com/question/303070254
-
-* Pytorch有什么节省内存（显存）的小技巧？https://www.zhihu.com/question/274635237
-
-* 和 Python 相比，Matlab 能否成为深入学习数据挖掘的工具?https://www.zhihu.com/question/25508497
-
-* 如何评价编程语言Julia 1.0？https://www.zhihu.com/question/289648396
-
-* 为什么谈论深度学习工具时，很少有人讨论matlab的神经网络工具包？https://www.zhihu.com/question/48676862
 
 
 
@@ -145,6 +201,25 @@
 * 你为什么离开数据科学（Data Science）行业?https://www.zhihu.com/question/278539797
 
 
+* 未来五年，数据科学家（Data Scientist）的岗位需求会如何变化？https://www.zhihu.com/question/301686177
+
+* 数据科学家 (Data Scientist) 的核心技能是什么？https://www.zhihu.com/question/27604790
+
+
+
+
+
+
+
+### 面试
+
+* 面试官如何判断面试者的机器学习水平？https://www.zhihu.com/question/62482926
+
+* 如何准备机器学习工程师的面试 ？https://www.zhihu.com/question/23259302
+
+
+
+
 
 
 
@@ -152,9 +227,6 @@
 ### 未整理
 
 机器学习、深度学习领域有哪些被广泛提及但你不认同的结论或观点？https://www.zhihu.com/question/292134377
-
-
-目前主流的attention方法都有哪些？https://www.zhihu.com/question/68482809
 
 
 深度学习调参有哪些技巧？https://www.zhihu.com/question/25097993
@@ -181,16 +253,20 @@
 为什么所有号称聪明的人工智能产品都有点傻？https://www.zhihu.com/question/59378498
 
 
-如何理解神经网络中通过add的方式融合特征？https://www.zhihu.com/question/306213462
-
-
 人工智能在工业界用到的模型都是最前沿的吗？https://www.zhihu.com/question/304599202
 
 
 从事AI真的需要CS科班出身吗？https://www.zhihu.com/question/305531586
 
 
+机器学习工作内容和kaggle竞赛有什么区别？https://www.zhihu.com/question/295475618
 
+
+为什么凸优化这么重要？https://www.zhihu.com/question/24641575
+
+
+
+你理想的未来 AI 时代什么样？未来 25 年内，各行业、个人生活会有哪些变化？我们该如何准备？https://www.zhihu.com/question/300390366
 
 
 
@@ -209,7 +285,7 @@
 
 
 ## TODO
-* 问题变成超链接的形式
+* 问题变成超链接的形式（或许放到问题后面也行？？）
 * 是不是除了问题链接还要附上问题相应的一些优秀的答案呢（有时间的话）？
 * 继续增加问题，并将所有问题归类（具体按什么类别归类？）
 
