@@ -128,6 +128,8 @@
 
 ### 神经网络
 
+* 神经网络为什么可以（理论上）拟合任何函数？https://www.zhihu.com/question/268384579
+
 * 为啥在训练神经网络时，梯度下降成为主流？https://www.zhihu.com/question/291963981
 
 * CNN 中池化是否会丢失有价值特征信息？https://www.zhihu.com/question/284156420
@@ -187,7 +189,7 @@
 
 ### 强化学习
 
-* 强化学习（reinforcement learning)有什么好的开源项目、网站、文章推荐一下？https://www.zhihu.com/question/4923092answer/115011594
+* 强化学习（reinforcement learning)有什么好的开源项目、网站、文章推荐一下？https://www.zhihu.com/question/49230922
 
 
 
@@ -265,9 +267,16 @@
 为什么凸优化这么重要？https://www.zhihu.com/question/24641575
 
 
-
 你理想的未来 AI 时代什么样？未来 25 年内，各行业、个人生活会有哪些变化？我们该如何准备？https://www.zhihu.com/question/300390366
 
+
+机器学习的算法和普通《算法导论》里的算法有什么本质上的异同？https://www.zhihu.com/question/24976006
+
+
+机器学习专家与统计学家观点上有哪些不同？https://www.zhihu.com/question/29687860
+
+
+机器学习到底是什么，如何使用这项技术？https://www.zhihu.com/question/294147625
 
 
 
