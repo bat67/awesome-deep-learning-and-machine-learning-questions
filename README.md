@@ -3,12 +3,14 @@
   - [问题与答案 / Questions and Answers](#问题与答案--questions-and-answers)
     - [论文与科研](#论文与科研)
     - [书籍、资源、项目、数据集](#书籍资源项目数据集)
+    - [数学与优化（？暂时这么分类吧。。。）](#数学与优化暂时这么分类吧)
     - [语言与框架](#语言与框架)
     - [神经网络](#神经网络)
     - [CV](#cv)
     - [NLP](#nlp)
     - [强化学习](#强化学习)
     - [数据科学](#数据科学)
+    - [推荐系统](#推荐系统)
     - [面试](#面试)
     - [未整理](#未整理)
   - [TODO](#todo)
@@ -55,7 +57,16 @@
 * 如何理解深度学习中的deconvolution networks？https://www.zhihu.com/question/43609045
 
 * 如何评价 Kaiming He 最新的 Mask R-CNN?https://www.zhihu.com/question/57403701
+    
+* 机器学习方面高质量的论文怎么找？https://www.zhihu.com/question/31555786
 
+* 机器学习研究者需要能够在多久之内复现出一篇paper?https://www.zhihu.com/question/275048106
+
+* 如何解析深度学习 Inception 从 v1 到 v4 的演化？https://www.zhihu.com/question/66396783
+
+* 如何评价 MSRA 最新的 Deformable Convolutional Networks？https://www.zhihu.com/question/57493889
+
+* 有哪些好看的CNN模型画法？https://www.zhihu.com/question/62509034
 
 
 
@@ -95,7 +106,29 @@
 
 
 
+
+
+
+### 数学与优化（？暂时这么分类吧。。。）
+
+* 机器学习中的优化理论，需要学习哪些资料才能看懂？https://www.zhihu.com/question/25120338
+
+* 为什么凸优化这么重要？https://www.zhihu.com/question/24641575
+
+* 为什么有些学数学的看不惯甚至鄙视 Deep Learning？https://www.zhihu.com/question/58992444
+
+* 优化理论能给深度学习带来怎样的革命？https://www.zhihu.com/question/310314918
+
+
+
+
+
+
+
+
 ### 语言与框架
+
+* 2017年1月18日Facebook发行的PyTorch相比TensorFlow、MXNet有何优势？https://www.zhihu.com/question/54914188
 
 * 如何有效地阅读PyTorch的源代码？https://www.zhihu.com/question/58253344
 
@@ -119,6 +152,19 @@
 
 * 为什么谈论深度学习工具时，很少有人讨论matlab的神经网络工具包？https://www.zhihu.com/question/48676862
 
+* 2018年了，MXNet 发展的如何了？https://www.zhihu.com/question/293996867
+
+* 为什么强大的 MXNet 一直火不起来？https://www.zhihu.com/question/52498007
+
+* MXNet 的代码要怎么读？https://www.zhihu.com/question/35924234
+
+* 如何高效的学习 TensorFlow 代码?https://www.zhihu.com/question/41667903
+
+* 有哪些相见恨晚的 TensorFlow 小技巧？https://www.zhihu.com/question/268375146
+
+* 开发者如何选择深度学习框架？https://www.zhihu.com/question/68114194
+
+* 学习机器学习有哪些好工具推荐？https://www.zhihu.com/question/20472776
 
 
 
@@ -179,6 +225,18 @@
 
 * 为什么 Deep Learning 目前在 NLP 上还没有什么成功的应用？https://www.zhihu.com/question/20981008
 
+* 在文本分类任务中，有哪些论文中很少提及却对性能有重要影响的tricks？https://www.zhihu.com/question/265357659
+
+* 目前常用的自然语言处理开源项目/开发包有哪些？https://www.zhihu.com/question/19929473
+
+* 工业界中NLP(自然语言处理)算法工程师的核心竞争力是什么？https://www.zhihu.com/question/296661606
+
+* 如何在自然语言处理方向学习？https://www.zhihu.com/question/266856019
+
+* 如何评价 BERT 模型？https://www.zhihu.com/question/298203515
+
+* NLP中有什么比较好的sentence/paragraph embedding方法 ？https://www.zhihu.com/question/299549788
+
 
 
 
@@ -191,6 +249,10 @@
 
 * 强化学习（reinforcement learning)有什么好的开源项目、网站、文章推荐一下？https://www.zhihu.com/question/49230922
 
+* 请问强化学习做新闻推荐能够取得不错的效果吗？https://www.zhihu.com/question/307126367
+
+
+
 
 
 
@@ -202,10 +264,22 @@
 
 * 你为什么离开数据科学（Data Science）行业?https://www.zhihu.com/question/278539797
 
-
 * 未来五年，数据科学家（Data Scientist）的岗位需求会如何变化？https://www.zhihu.com/question/301686177
 
 * 数据科学家 (Data Scientist) 的核心技能是什么？https://www.zhihu.com/question/27604790
+
+
+
+
+
+
+### 推荐系统
+
+* 类似今日头条这样的个性化推荐网站怎么评价推荐质量的优劣？
+
+* 在你做推荐系统的过程中都遇到过什么坑？https://www.zhihu.com/question/32218407
+
+
 
 
 
@@ -232,9 +306,6 @@
 
 
 深度学习调参有哪些技巧？https://www.zhihu.com/question/25097993
-
-
-优化理论能给深度学习带来怎样的革命？https://www.zhihu.com/question/310314918
 
 
 在控制验证集不变的前提下，随着训练集样本数的增加，验证集准确率不升反降？https://www.zhihu.com/question/289025990
@@ -264,9 +335,6 @@
 机器学习工作内容和kaggle竞赛有什么区别？https://www.zhihu.com/question/295475618
 
 
-为什么凸优化这么重要？https://www.zhihu.com/question/24641575
-
-
 你理想的未来 AI 时代什么样？未来 25 年内，各行业、个人生活会有哪些变化？我们该如何准备？https://www.zhihu.com/question/300390366
 
 
@@ -279,10 +347,16 @@
 机器学习到底是什么，如何使用这项技术？https://www.zhihu.com/question/294147625
 
 
+有没有必要把机器学习算法自己实现一遍？https://www.zhihu.com/question/36768514
 
 
+计算资源有限的人如何在Deep Learning领域成长？https://www.zhihu.com/question/304263105
 
 
+Deep Learning 一书中有哪些论述被最新研究验证、拓展或推翻了？https://www.zhihu.com/question/61600406
+
+
+深度神经网络（DNN）是否模拟了人类大脑皮层结构？https://www.zhihu.com/question/59800121
 
 
 
