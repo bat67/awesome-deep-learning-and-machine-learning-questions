@@ -11,7 +11,9 @@
     - [强化学习](#强化学习)
     - [数据科学](#数据科学)
     - [推荐系统](#推荐系统)
-    - [面试](#面试)
+    - [面试与工作](#面试与工作)
+    - [行业与产品](#行业与产品)
+    - [思考与展望](#思考与展望)
     - [未整理](#未整理)
   - [TODO](#todo)
 
@@ -287,11 +289,52 @@
 
 
 
-### 面试
+### 面试与工作
 
 * 面试官如何判断面试者的机器学习水平？https://www.zhihu.com/question/62482926
 
 * 如何准备机器学习工程师的面试 ？https://www.zhihu.com/question/23259302
+
+* 机器学习工作内容和kaggle竞赛有什么区别？https://www.zhihu.com/question/295475618
+
+* 从事AI真的需要CS科班出身吗？https://www.zhihu.com/question/305531586
+
+
+
+
+
+
+
+
+
+### 行业与产品
+
+* 为什么所有号称聪明的人工智能产品都有点傻？https://www.zhihu.com/question/59378498
+
+* 人工智能在工业界用到的模型都是最前沿的吗？https://www.zhihu.com/question/304599202
+
+* 业界现在有哪些比较成熟的基于深度学习（deep learning）的应用？https://www.zhihu.com/question/30237124
+
+
+
+
+
+
+
+
+### 思考与展望
+
+
+* 你理想的未来 AI 时代什么样？未来 25 年内，各行业、个人生活会有哪些变化？我们该如何准备？https://www.zhihu.com/question/300390366
+
+* 机器学习，深度神经网络等方法是否是正确的方向？https://www.zhihu.com/question/26970857
+
+* 机器学习、深度学习领域有哪些被广泛提及但你不认同的结论或观点？https://www.zhihu.com/question/292134377
+
+* 深度神经网络（DNN）是否模拟了人类大脑皮层结构？https://www.zhihu.com/question/59800121
+
+* Deep Learning 一书中有哪些论述被最新研究验证、拓展或推翻了？https://www.zhihu.com/question/61600406
+
 
 
 
@@ -302,7 +345,6 @@
 
 ### 未整理
 
-机器学习、深度学习领域有哪些被广泛提及但你不认同的结论或观点？https://www.zhihu.com/question/292134377
 
 
 深度学习调参有哪些技巧？https://www.zhihu.com/question/25097993
@@ -323,21 +365,6 @@
 机器学习、优化理论、统计分析、数据挖掘、神经网络、人工智能、模式识别之间的关系是什么？https://www.zhihu.com/question/20747381
 
 
-为什么所有号称聪明的人工智能产品都有点傻？https://www.zhihu.com/question/59378498
-
-
-人工智能在工业界用到的模型都是最前沿的吗？https://www.zhihu.com/question/304599202
-
-
-从事AI真的需要CS科班出身吗？https://www.zhihu.com/question/305531586
-
-
-机器学习工作内容和kaggle竞赛有什么区别？https://www.zhihu.com/question/295475618
-
-
-你理想的未来 AI 时代什么样？未来 25 年内，各行业、个人生活会有哪些变化？我们该如何准备？https://www.zhihu.com/question/300390366
-
-
 机器学习的算法和普通《算法导论》里的算法有什么本质上的异同？https://www.zhihu.com/question/24976006
 
 
@@ -353,10 +380,7 @@
 计算资源有限的人如何在Deep Learning领域成长？https://www.zhihu.com/question/304263105
 
 
-Deep Learning 一书中有哪些论述被最新研究验证、拓展或推翻了？https://www.zhihu.com/question/61600406
 
-
-深度神经网络（DNN）是否模拟了人类大脑皮层结构？https://www.zhihu.com/question/59800121
 
 
 
