@@ -75,6 +75,9 @@
 
 
 
+
+
+
 ### 书籍、资源、项目、数据集
 
 * 网络上深度学习、机器学习的在线课程是否值得学习？https://www.zhihu.com/question/267126994
@@ -111,6 +114,7 @@
 
 
 
+
 ### 数学与优化（？暂时这么分类吧。。。）
 
 * 机器学习中的优化理论，需要学习哪些资料才能看懂？https://www.zhihu.com/question/25120338
@@ -120,6 +124,9 @@
 * 为什么有些学数学的看不惯甚至鄙视 Deep Learning？https://www.zhihu.com/question/58992444
 
 * 优化理论能给深度学习带来怎样的革命？https://www.zhihu.com/question/310314918
+
+
+
 
 
 
@@ -174,6 +181,8 @@
 
 
 
+
+
 ### 神经网络
 
 * 神经网络为什么可以（理论上）拟合任何函数？https://www.zhihu.com/question/268384579
@@ -217,6 +226,7 @@
 
 * 目前主流的attention方法都有哪些？https://www.zhihu.com/question/68482809
 
+* 计算机视觉是否已经进入瓶颈期？https://www.zhihu.com/question/51863955
 
 
 
@@ -269,6 +279,16 @@
 * 未来五年，数据科学家（Data Scientist）的岗位需求会如何变化？https://www.zhihu.com/question/301686177
 
 * 数据科学家 (Data Scientist) 的核心技能是什么？https://www.zhihu.com/question/27604790
+
+* 同样是数据分析方法，为什么时间序列分析没有数据挖掘或机器学习那么火？https://www.zhihu.com/question/24189178
+
+* 28 岁女孩想转行做数据挖掘靠谱吗？https://www.zhihu.com/question/49490009
+
+* 数据挖掘中常用的数据清洗方法有哪些？https://www.zhihu.com/question/22077960
+
+
+
+
 
 
 
@@ -334,6 +354,8 @@
 * 深度神经网络（DNN）是否模拟了人类大脑皮层结构？https://www.zhihu.com/question/59800121
 
 * Deep Learning 一书中有哪些论述被最新研究验证、拓展或推翻了？https://www.zhihu.com/question/61600406
+
+* 深度学习（机器学习）的下一步如何发展？https://www.zhihu.com/question/47602063
 
 
 
