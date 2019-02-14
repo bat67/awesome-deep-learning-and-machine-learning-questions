@@ -263,6 +263,18 @@
 
 * 请问强化学习做新闻推荐能够取得不错的效果吗？https://www.zhihu.com/question/307126367
 
+* 有研究强化学习（Reinforcement Learning）的不，强化学习的研究价值和应用前景如何？https://www.zhihu.com/question/20335959
+
+* 强化学习怎么入门好？https://www.zhihu.com/question/277325426
+
+* 强化学习是什么？https://www.zhihu.com/question/31140846
+
+* 关于《reinforcement learning :an introduction》的理解？https://www.zhihu.com/question/50461146
+
+
+
+
+
 
 
 
@@ -402,10 +414,16 @@
 计算资源有限的人如何在Deep Learning领域成长？https://www.zhihu.com/question/304263105
 
 
+机器学习中的数据预处理有哪些常见/重要的工具？https://www.zhihu.com/question/38273898
 
 
+深度学习在路径规划上有哪些应用？https://www.zhihu.com/question/57456575
 
 
+计算机视觉和自然语言处理，哪个更具有发展前景呢，还是各有千秋呢？https://www.zhihu.com/question/49432647
+
+
+机器学习、深度学习和强化学习的关系和区别是什么？https://www.zhihu.com/question/279973545
 
 
 
