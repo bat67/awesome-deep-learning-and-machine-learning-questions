@@ -70,8 +70,9 @@
 
 * 有哪些好看的CNN模型画法？https://www.zhihu.com/question/62509034
 
+* 数据挖掘、机器学习领域有哪些知名的期刊或会议？https://www.zhihu.com/question/38424588
 
-
+* 除了 arxiv.org, 机器学习与数据挖掘相关在哪可以阅读比较专业的文献？https://www.zhihu.com/question/21434140
 
 
 
@@ -106,7 +107,7 @@
 
 * 有什么深度学习数学基础书推荐？https://www.zhihu.com/question/41459109
 
-
+* 新入学的计算机研究生怎么安排三年学习深度学习？https://www.zhihu.com/question/58343851
 
 
 
@@ -125,7 +126,7 @@
 
 * 优化理论能给深度学习带来怎样的革命？https://www.zhihu.com/question/310314918
 
-
+概率论与数理统计在机器学习中为什么这么重要？https://www.zhihu.com/question/285189181
 
 
 
@@ -426,7 +427,7 @@
 机器学习、深度学习和强化学习的关系和区别是什么？https://www.zhihu.com/question/279973545
 
 
-
+机器学习里的 kernel 是指什么？https://www.zhihu.com/question/30371867
 
 
 
