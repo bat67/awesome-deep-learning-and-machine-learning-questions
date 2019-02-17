@@ -5,6 +5,7 @@
     - [书籍、资源、项目、数据集](#书籍资源项目数据集)
     - [数学与优化（？暂时这么分类吧。。。）](#数学与优化暂时这么分类吧)
     - [语言与框架](#语言与框架)
+    - [经典机器学习](#经典机器学习)
     - [神经网络](#神经网络)
     - [CV](#cv)
     - [NLP](#nlp)
@@ -178,6 +179,23 @@
 
 
 
+
+
+
+
+### 经典机器学习
+
+* 机器学习里的 kernel 是指什么？[zhihu link](https://www.zhihu.com/question/30371867)
+
+* 机器学习中如何处理缺失数据？[zhihu link](https://www.zhihu.com/question/26639110)
+
+* 机器学习应该准备哪些数学预备知识？[zhihu link](https://www.zhihu.com/question/36324957)
+
+* 机器学习的算法和普通《算法导论》里的算法有什么本质上的异同？[zhihu link](https://www.zhihu.com/question/24976006)
+
+* 机器学习到底是什么，如何使用这项技术？[zhihu link](https://www.zhihu.com/question/294147625)
+
+* 机器学习中的数据预处理有哪些常见/重要的工具？[zhihu link](https://www.zhihu.com/question/38273898)
 
 
 
@@ -400,22 +418,13 @@
 机器学习、优化理论、统计分析、数据挖掘、神经网络、人工智能、模式识别之间的关系是什么？[zhihu link](https://www.zhihu.com/question/20747381)
 
 
-机器学习的算法和普通《算法导论》里的算法有什么本质上的异同？[zhihu link](https://www.zhihu.com/question/24976006)
-
-
 机器学习专家与统计学家观点上有哪些不同？[zhihu link](https://www.zhihu.com/question/29687860)
-
-
-机器学习到底是什么，如何使用这项技术？[zhihu link](https://www.zhihu.com/question/294147625)
 
 
 有没有必要把机器学习算法自己实现一遍？[zhihu link](https://www.zhihu.com/question/36768514)
 
 
 计算资源有限的人如何在Deep Learning领域成长？[zhihu link](https://www.zhihu.com/question/304263105)
-
-
-机器学习中的数据预处理有哪些常见/重要的工具？[zhihu link](https://www.zhihu.com/question/38273898)
 
 
 深度学习在路径规划上有哪些应用？[zhihu link](https://www.zhihu.com/question/57456575)
@@ -427,8 +436,7 @@
 机器学习、深度学习和强化学习的关系和区别是什么？[zhihu link](https://www.zhihu.com/question/279973545)
 
 
-机器学习里的 kernel 是指什么？[zhihu link](https://www.zhihu.com/question/30371867)
-
+深度学习目前主要有哪些研究方向?[zhihu link](https://www.zhihu.com/question/23140232)
 
 
 
