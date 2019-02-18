@@ -6,7 +6,7 @@
     - [数学与优化（？暂时这么分类吧。。。）](#数学与优化暂时这么分类吧)
     - [语言与框架](#语言与框架)
     - [经典机器学习](#经典机器学习)
-    - [神经网络](#神经网络)
+    - [神经网络与深度学习](#神经网络与深度学习)
     - [CV](#cv)
     - [NLP](#nlp)
     - [强化学习](#强化学习)
@@ -15,6 +15,7 @@
     - [面试与工作](#面试与工作)
     - [行业与产品](#行业与产品)
     - [思考与展望](#思考与展望)
+    - [其他应用](#其他应用)
     - [未整理](#未整理)
   - [TODO](#todo)
 
@@ -75,6 +76,7 @@
 
 * 除了 arxiv.org, 机器学习与数据挖掘相关在哪可以阅读比较专业的文献？[zhihu link](https://www.zhihu.com/question/21434140)
 
+* 深度学习目前主要有哪些研究方向?[zhihu link](https://www.zhihu.com/question/23140232)
 
 
 
@@ -202,7 +204,9 @@
 
 
 
-### 神经网络
+### 神经网络与深度学习
+
+* 深度学习调参有哪些技巧？[zhihu link](https://www.zhihu.com/question/25097993) 
 
 * 神经网络为什么可以（理论上）拟合任何函数？[zhihu link](https://www.zhihu.com/question/268384579)
 
@@ -388,7 +392,18 @@
 
 * 深度学习（机器学习）的下一步如何发展？[zhihu link](https://www.zhihu.com/question/47602063)
 
+* 计算机视觉和自然语言处理，哪个更具有发展前景呢，还是各有千秋呢？[zhihu link](https://www.zhihu.com/question/49432647)
 
+
+
+
+
+
+
+
+### 其他应用
+
+* 机器学习在无线通信领域的研究意义？[zhihu link](https://www.zhihu.com/question/296782869)
 
 
 
@@ -399,10 +414,6 @@
 ### 未整理
 
 
-
-深度学习调参有哪些技巧？[zhihu link](https://www.zhihu.com/question/25097993)
-
-
 在控制验证集不变的前提下，随着训练集样本数的增加，验证集准确率不升反降？[zhihu link](https://www.zhihu.com/question/289025990)
 
 
@@ -410,9 +421,6 @@
 
 
 精确率、召回率、F1 值、ROC、AUC 各自的优缺点是什么？[zhihu link](https://www.zhihu.com/question/30643044)
-
-
-机器学习在无线通信领域的研究意义？[zhihu link](https://www.zhihu.com/question/296782869)
 
 
 机器学习、优化理论、统计分析、数据挖掘、神经网络、人工智能、模式识别之间的关系是什么？[zhihu link](https://www.zhihu.com/question/20747381)
@@ -430,13 +438,10 @@
 深度学习在路径规划上有哪些应用？[zhihu link](https://www.zhihu.com/question/57456575)
 
 
-计算机视觉和自然语言处理，哪个更具有发展前景呢，还是各有千秋呢？[zhihu link](https://www.zhihu.com/question/49432647)
-
-
 机器学习、深度学习和强化学习的关系和区别是什么？[zhihu link](https://www.zhihu.com/question/279973545)
 
 
-深度学习目前主要有哪些研究方向?[zhihu link](https://www.zhihu.com/question/23140232)
+
 
 
 
