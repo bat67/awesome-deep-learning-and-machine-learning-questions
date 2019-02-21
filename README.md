@@ -73,6 +73,7 @@
 
 * 深度学习目前主要有哪些研究方向?[zhihu link](https://www.zhihu.com/question/23140232)
 
+* 如何理解谷歌团队的机器翻译新作《Attention is all you need》？[zhihu link](https://www.zhihu.com/question/61077555)
 
 
 
@@ -276,6 +277,11 @@
 
 * 计算机视觉是否已经进入瓶颈期？[zhihu link](https://www.zhihu.com/question/51863955)
 
+* Attention mechanism目前有什么缺点和改进空间？[zhihu link](https://www.zhihu.com/question/305644438)
+
+* Attention机制可以应用在图像分割的改善中吗？[zhihu link](https://www.zhihu.com/question/291446237)
+
+* 深度学习在路径规划上有哪些应用？[zhihu link](https://www.zhihu.com/question/57456575)
 
 
 
