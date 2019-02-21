@@ -2,13 +2,16 @@
   - [简介 / Introduction](#简介--introduction)
   - [问题与答案 / Questions and Answers](#问题与答案--questions-and-answers)
     - [论文与科研](#论文与科研)
-    - [书籍、资源、项目、数据集](#书籍资源项目数据集)
+    - [书籍、资源、数据集](#书籍资源数据集)
+    - [科普向](#科普向)
+    - [项目](#项目)
+    - [学习方法](#学习方法)
     - [数学与优化（？暂时这么分类吧。。。）](#数学与优化暂时这么分类吧)
     - [语言与框架](#语言与框架)
     - [经典机器学习](#经典机器学习)
     - [神经网络与深度学习](#神经网络与深度学习)
-    - [CV](#cv)
-    - [NLP](#nlp)
+    - [计算机视觉](#计算机视觉)
+    - [自然语言处理](#自然语言处理)
     - [强化学习](#强化学习)
     - [数据科学](#数据科学)
     - [推荐系统](#推荐系统)
@@ -74,19 +77,20 @@
 
 
 
-### 书籍、资源、项目、数据集
+
+
+
+
+
+### 书籍、资源、数据集
 
 * 网络上深度学习、机器学习的在线课程是否值得学习？[zhihu link](https://www.zhihu.com/question/267126994)
+
+* 有哪些比较好的机器学习，深度学习的网络资源可利用？[zhihu link](https://www.zhihu.com/question/43664024)
 
 * 机器学习书籍选择?[zhihu link](https://www.zhihu.com/question/31091250)
 
 * 如何评价深度学习领域圣经“花书”Deep Learning的中文版？[zhihu link](https://www.zhihu.com/question/62240525)
-
-* 有哪些比较好的机器学习，深度学习的网络资源可利用？[zhihu link](https://www.zhihu.com/question/43664024)
-
-* GitHub 上有哪些有关图像处理或是机器学习的有趣项目？[zhihu link](https://www.zhihu.com/question/36346612)
-
-* GitHub 上有哪些有趣的关于 NLP 或者 DL 的项目？[zhihu link](https://www.zhihu.com/question/36853910)
 
 * 有哪些机器学习、图像识别方面的入门书籍？[zhihu link](https://www.zhihu.com/question/20523667)
 
@@ -102,10 +106,36 @@
 
 * 有什么深度学习数学基础书推荐？[zhihu link](https://www.zhihu.com/question/41459109)
 
+
+
+### 科普向
+
+* 机器学习、深度学习和强化学习的关系和区别是什么？[zhihu link](https://www.zhihu.com/question/279973545)
+
+* 机器学习、优化理论、统计分析、数据挖掘、神经网络、人工智能、模式识别之间的关系是什么？[zhihu link](https://www.zhihu.com/question/20747381)
+
+
+
+
+
+### 项目
+
+* GitHub 上有哪些有关图像处理或是机器学习的有趣项目？[zhihu link](https://www.zhihu.com/question/36346612)
+
+* GitHub 上有哪些有趣的关于 NLP 或者 DL 的项目？[zhihu link](https://www.zhihu.com/question/36853910)
+
+
+
+
+
+
+### 学习方法
+
 * 新入学的计算机研究生怎么安排三年学习深度学习？[zhihu link](https://www.zhihu.com/question/58343851)
 
+* 有没有必要把机器学习算法自己实现一遍？[zhihu link](https://www.zhihu.com/question/36768514)
 
-
+* 计算资源有限的人如何在Deep Learning领域成长？[zhihu link](https://www.zhihu.com/question/304263105)
 
 
 
@@ -122,6 +152,7 @@
 * 优化理论能给深度学习带来怎样的革命？[zhihu link](https://www.zhihu.com/question/310314918)
 
 * 概率论与数理统计在机器学习中为什么这么重要？[zhihu link](https://www.zhihu.com/question/285189181)
+
 
 
 
@@ -170,6 +201,8 @@
 * 开发者如何选择深度学习框架？[zhihu link](https://www.zhihu.com/question/68114194)
 
 * 学习机器学习有哪些好工具推荐？[zhihu link](https://www.zhihu.com/question/20472776)
+
+
 
 
 
@@ -229,7 +262,7 @@
 
 
 
-### CV
+### 计算机视觉
 
 * 目标检测领域还有什么可以做的？[zhihu link](https://www.zhihu.com/question/280703314)
 
@@ -248,7 +281,9 @@
 
 
 
-### NLP
+
+
+### 自然语言处理
 
 * 为什么 Deep Learning 目前在 NLP 上还没有什么成功的应用？[zhihu link](https://www.zhihu.com/question/20981008)
 
@@ -263,6 +298,7 @@
 * 如何评价 BERT 模型？[zhihu link](https://www.zhihu.com/question/298203515)
 
 * NLP中有什么比较好的sentence/paragraph embedding方法 ？[zhihu link](https://www.zhihu.com/question/299549788)
+
 
 
 
@@ -354,6 +390,8 @@
 
 
 
+
+
 ### 行业与产品
 
 * 为什么所有号称聪明的人工智能产品都有点傻？[zhihu link](https://www.zhihu.com/question/59378498)
@@ -361,6 +399,8 @@
 * 人工智能在工业界用到的模型都是最前沿的吗？[zhihu link](https://www.zhihu.com/question/304599202)
 
 * 业界现在有哪些比较成熟的基于深度学习（deep learning）的应用？[zhihu link](https://www.zhihu.com/question/30237124)
+
+
 
 
 
@@ -393,9 +433,12 @@
 
 
 
+
 ### 其他应用
 
 * 机器学习在无线通信领域的研究意义？[zhihu link](https://www.zhihu.com/question/296782869)
+
+
 
 
 
@@ -415,22 +458,15 @@
 精确率、召回率、F1 值、ROC、AUC 各自的优缺点是什么？[zhihu link](https://www.zhihu.com/question/30643044)
 
 
-机器学习、优化理论、统计分析、数据挖掘、神经网络、人工智能、模式识别之间的关系是什么？[zhihu link](https://www.zhihu.com/question/20747381)
-
-
 机器学习专家与统计学家观点上有哪些不同？[zhihu link](https://www.zhihu.com/question/29687860)
 
 
-有没有必要把机器学习算法自己实现一遍？[zhihu link](https://www.zhihu.com/question/36768514)
 
 
-计算资源有限的人如何在Deep Learning领域成长？[zhihu link](https://www.zhihu.com/question/304263105)
 
 
-深度学习在路径规划上有哪些应用？[zhihu link](https://www.zhihu.com/question/57456575)
 
 
-机器学习、深度学习和强化学习的关系和区别是什么？[zhihu link](https://www.zhihu.com/question/279973545)
 
 
 
