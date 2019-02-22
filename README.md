@@ -75,7 +75,7 @@
 
 * 如何理解谷歌团队的机器翻译新作《Attention is all you need》？[zhihu link](https://www.zhihu.com/question/61077555)
 
-
+* 深度学习有哪些好玩的且易于实现的论文？[zhihu link](https://www.zhihu.com/question/41231774)
 
 
 
@@ -109,11 +109,21 @@
 
 
 
+
+
+
+
+
 ### 科普向
 
 * 机器学习、深度学习和强化学习的关系和区别是什么？[zhihu link](https://www.zhihu.com/question/279973545)
 
 * 机器学习、优化理论、统计分析、数据挖掘、神经网络、人工智能、模式识别之间的关系是什么？[zhihu link](https://www.zhihu.com/question/20747381)
+
+* 人工智能、机器学习和深度学习的区别?[zhihu link]https://www.zhihu.com/question/57770020
+
+
+
 
 
 
@@ -124,6 +134,7 @@
 * GitHub 上有哪些有关图像处理或是机器学习的有趣项目？[zhihu link](https://www.zhihu.com/question/36346612)
 
 * GitHub 上有哪些有趣的关于 NLP 或者 DL 的项目？[zhihu link](https://www.zhihu.com/question/36853910)
+
 
 
 
@@ -432,10 +443,9 @@
 
 * 计算机视觉和自然语言处理，哪个更具有发展前景呢，还是各有千秋呢？[zhihu link](https://www.zhihu.com/question/49432647)
 
+* 机器学习、深度学习等人工智能技术在工业界的应用状况是怎样的？人力供需状况如何？[zhihu link](https://www.zhihu.com/question/41012507)
 
-
-
-
+* 人工智能在未来能彻底取代脑力工作者吗？[zhihu link](https://www.zhihu.com/question/294072941)
 
 
 
@@ -458,7 +468,7 @@
 在控制验证集不变的前提下，随着训练集样本数的增加，验证集准确率不升反降？[zhihu link](https://www.zhihu.com/question/289025990)
 
 
-人工智能算法能否通过输出结果改进准确率[zhihu link](？https://www.zhihu.com/question/296724405)
+人工智能算法能否通过输出结果改进准确率？[zhihu link](https://www.zhihu.com/question/296724405)
 
 
 精确率、召回率、F1 值、ROC、AUC 各自的优缺点是什么？[zhihu link](https://www.zhihu.com/question/30643044)
