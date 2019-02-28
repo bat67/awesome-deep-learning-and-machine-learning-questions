@@ -120,7 +120,7 @@
 
 * 机器学习、优化理论、统计分析、数据挖掘、神经网络、人工智能、模式识别之间的关系是什么？[zhihu link](https://www.zhihu.com/question/20747381)
 
-* 人工智能、机器学习和深度学习的区别?[zhihu link]https://www.zhihu.com/question/57770020
+* 人工智能、机器学习和深度学习的区别?[zhihu link](https://www.zhihu.com/question/57770020)
 
 
 
