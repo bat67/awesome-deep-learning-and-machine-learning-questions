@@ -77,6 +77,7 @@
 
 * 深度学习有哪些好玩的且易于实现的论文？[zhihu link](https://www.zhihu.com/question/41231774)
 
+* 目前人工智能的主要研究方向都有哪些？[zhihu link](https://www.zhihu.com/question/51419290)
 
 
 
@@ -122,7 +123,9 @@
 
 * 人工智能、机器学习和深度学习的区别?[zhihu link](https://www.zhihu.com/question/57770020)
 
+* 神经网络啥时候改名叫“深度学习”了？[zhihu link](https://www.zhihu.com/question/50422088)
 
+* 目前人工智能的主要研究方向都有哪些？[zhihu link](https://www.zhihu.com/question/51419290)
 
 
 
@@ -214,6 +217,7 @@
 
 * 学习机器学习有哪些好工具推荐？[zhihu link](https://www.zhihu.com/question/20472776)
 
+* 人工智能库，有没有结合Deep Learning 和Reinforcement Learning的呢？[zhihu link](https://www.zhihu.com/question/48682064)
 
 
 
@@ -447,6 +451,9 @@
 
 * 人工智能在未来能彻底取代脑力工作者吗？[zhihu link](https://www.zhihu.com/question/294072941)
 
+* 深度学习（deep learning）距离实际应用还有多远，会有大规模应用吗？[zhihu link](https://www.zhihu.com/question/23481177/)
+
+* 机器学习成就人工智能，还是人工智能成就机器学习？[zhihu link](https://www.zhihu.com/question/20335960)
 
 
 
@@ -480,22 +487,11 @@
 机器学习专家与统计学家观点上有哪些不同？[zhihu link](https://www.zhihu.com/question/29687860)
 
 
-人工智能库，有没有结合Deep Learning 和Reinforcement Learning的呢？[zhihu link](https://www.zhihu.com/question/48682064)
-
-
-机器学习成就人工智能，还是人工智能成就机器学习？[zhihu link](https://www.zhihu.com/question/20335960)
-
-
-目前人工智能的主要研究方向都有哪些？[zhihu link](https://www.zhihu.com/question/51419290)
-
-
 国内外有哪些比较好的人工智能学习平台？[zhihu link](https://www.zhihu.com/question/267305504)
 
 
-深度学习（deep learning）距离实际应用还有多远，会有大规模应用吗？[zhihu link](https://www.zhihu.com/question/23481177/)
 
 
-神经网络啥时候改名叫“深度学习”了？[zhihu link](https://www.zhihu.com/question/50422088)
 
 
 
