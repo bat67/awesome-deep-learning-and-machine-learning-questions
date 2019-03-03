@@ -490,11 +490,13 @@
 国内外有哪些比较好的人工智能学习平台？[zhihu link](https://www.zhihu.com/question/267305504)
 
 
+训练集准确率接近100%，验证集准确率80%但是随着训练step增加不增也不降。算是过拟合还是欠拟合？[zhihu link](https://www.zhihu.com/question/65200055)
 
 
+谁能详细讲解一下TensorFlow Playground所展示的神经网络的概念？[zhihu link](https://www.zhihu.com/question/42995089)
 
 
-
+为什么说 TensorFlow 是适用于部署生产的机器学习框架？[zhihu link](https://www.zhihu.com/question/294646695)
 
 
 
