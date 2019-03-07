@@ -213,6 +213,8 @@
 
 * 有哪些相见恨晚的 TensorFlow 小技巧？[zhihu link](https://www.zhihu.com/question/268375146)
 
+* 为什么说 TensorFlow 是适用于部署生产的机器学习框架？[zhihu link](https://www.zhihu.com/question/294646695)
+
 * 开发者如何选择深度学习框架？[zhihu link](https://www.zhihu.com/question/68114194)
 
 * 学习机器学习有哪些好工具推荐？[zhihu link](https://www.zhihu.com/question/20472776)
@@ -319,6 +321,8 @@
 * 如何评价 BERT 模型？[zhihu link](https://www.zhihu.com/question/298203515)
 
 * NLP中有什么比较好的sentence/paragraph embedding方法 ？[zhihu link](https://www.zhihu.com/question/299549788)
+
+* 在NLP领域，现阶段最有希望突破深度学习牢笼的研究/思路有哪些？[zhihu link](https://www.zhihu.com/question/265118704)
 
 
 
@@ -496,7 +500,6 @@
 谁能详细讲解一下TensorFlow Playground所展示的神经网络的概念？[zhihu link](https://www.zhihu.com/question/42995089)
 
 
-为什么说 TensorFlow 是适用于部署生产的机器学习框架？[zhihu link](https://www.zhihu.com/question/294646695)
 
 
 
