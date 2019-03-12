@@ -79,6 +79,7 @@
 
 * 目前人工智能的主要研究方向都有哪些？[zhihu link](https://www.zhihu.com/question/51419290)
 
+* distributed/stochastic optimization的研究热点在哪？[zhihu link](https://www.zhihu.com/question/32675289)
 
 
 
@@ -500,6 +501,28 @@
 谁能详细讲解一下TensorFlow Playground所展示的神经网络的概念？[zhihu link](https://www.zhihu.com/question/42995089)
 
 
+弱监督学习在语义分割中的进展与应用?[zhihu link](https://www.zhihu.com/question/53263115/answer/248951505)
+
+
+机器学习里的弱标签学习，属于半监督学习吗？[zhihu link](https://www.zhihu.com/question/56875030/answer/252512840)
+
+
+主动学习（Active Learning）从90年代发展至今，并且具有实质价值的潜力，为什么默默无闻？[zhihu link](https://www.zhihu.com/question/285149644)
+
+
+主动学习(Active learning)算法的原理是什么，有哪些比较具体的应用？[zhihu link](https://www.zhihu.com/question/265479171)
+
+
+active learning还有人在做这方面的研究吗?[zhihu link](https://www.zhihu.com/question/65263436)
+
+
+国内有哪些高校在做深度学习芯片方面的研究？[zhihu link](https://www.zhihu.com/question/64578383)
+
+
+如何评价Yann LeCun 说的「要研究机器学习，本科应尽量多学物理和数学课」？[zhihu link](https://www.zhihu.com/question/55260138)
+
+
+从事计算机视觉和机器学习的研究，如何获得认知神经科学和脑科学的启发？[zhihu link](https://www.zhihu.com/question/35704088)
 
 
 
