@@ -537,6 +537,9 @@ active learning还有人在做这方面的研究吗?[zhihu link](https://www.zhi
 当前，在图像处理领域，哪个方向比较火？或者比较好做？[zhihu link](https://www.zhihu.com/question/41250817)
 
 
+请问在现阶段的神经科学和脑科学的研究中，有没有人脑结合AI（人工智能）的方向呢。如果有，进展又怎样呢？[zhihu link](https://www.zhihu.com/question/54424980)
+
+
 
 
 
