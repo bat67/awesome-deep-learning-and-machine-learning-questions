@@ -81,6 +81,18 @@
 
 * distributed/stochastic optimization的研究热点在哪？[zhihu link](https://www.zhihu.com/question/32675289)
 
+* 当前人工智能特别是深度学习最前沿的研究方向是什么？[zhihu link](https://www.zhihu.com/question/46485555)
+
+* 请问在现阶段的神经科学和脑科学的研究中，有没有人脑结合AI（人工智能）的方向呢。如果有，进展又怎样呢？[zhihu link](https://www.zhihu.com/question/54424980)
+
+* 请问机器学习生物医学图像处理方向研究前景如何？[zhihu link](https://www.zhihu.com/question/268733733)
+
+* 当前，在图像处理领域，哪个方向比较火？或者比较好做？[zhihu link](https://www.zhihu.com/question/41250817)
+
+* 从事计算机视觉和机器学习的研究，如何获得认知神经科学和脑科学的启发？[zhihu link](https://www.zhihu.com/question/35704088)
+
+
+
 
 
 
@@ -460,6 +472,7 @@
 
 * 机器学习成就人工智能，还是人工智能成就机器学习？[zhihu link](https://www.zhihu.com/question/20335960)
 
+* 深度学习的研究领域是否有被过度夸大？[zhihu link](https://www.zhihu.com/question/27434103)
 
 
 
@@ -522,22 +535,16 @@ active learning还有人在做这方面的研究吗?[zhihu link](https://www.zhi
 如何评价Yann LeCun 说的「要研究机器学习，本科应尽量多学物理和数学课」？[zhihu link](https://www.zhihu.com/question/55260138)
 
 
-从事计算机视觉和机器学习的研究，如何获得认知神经科学和脑科学的启发？[zhihu link](https://www.zhihu.com/question/35704088)
 
 
-请问机器学习生物医学图像处理方向研究前景如何？[zhihu link](https://www.zhihu.com/question/268733733)
 
 
-深度学习的研究领域是否有被过度夸大？[zhihu link](https://www.zhihu.com/question/27434103)
 
 
-当前人工智能特别是深度学习最前沿的研究方向是什么？[zhihu link](https://www.zhihu.com/question/46485555)
 
 
-当前，在图像处理领域，哪个方向比较火？或者比较好做？[zhihu link](https://www.zhihu.com/question/41250817)
 
 
-请问在现阶段的神经科学和脑科学的研究中，有没有人脑结合AI（人工智能）的方向呢。如果有，进展又怎样呢？[zhihu link](https://www.zhihu.com/question/54424980)
 
 
 
