@@ -535,7 +535,7 @@ active learning还有人在做这方面的研究吗?[zhihu link](https://www.zhi
 如何评价Yann LeCun 说的「要研究机器学习，本科应尽量多学物理和数学课」？[zhihu link](https://www.zhihu.com/question/55260138)
 
 
-
+如何理解fine-grained和coarse-grained？[zhihu link](https://www.zhihu.com/question/299171510)
 
 
 
