@@ -360,8 +360,9 @@
 
 * 关于《reinforcement learning :an introduction》的理解？[zhihu link](https://www.zhihu.com/question/50461146)
 
+* 强化学习（RL）是否是人工智能的关键之处，能够给人工智能带来质变？[zhihu link](https://www.zhihu.com/question/40554481)
 
-
+* 强化学习（RL）中有哪些重要的理论结果？[zhihu link](https://www.zhihu.com/question/312164724)
 
 
 
