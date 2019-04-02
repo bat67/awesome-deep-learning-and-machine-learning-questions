@@ -364,6 +364,12 @@
 
 * 强化学习（RL）中有哪些重要的理论结果？[zhihu link](https://www.zhihu.com/question/312164724)
 
+* 怎么在监督学习的基础上做强化学习？[zhihu link](https://www.zhihu.com/question/51780401)
+
+* 能否介绍一下强化学习（Reinforcement Learning），以及与监督学习的不同？[zhihu link](https://www.zhihu.com/question/41775291)
+
+* 强化学习（reinforcement learning)有什么好的开源项目、网站、文章推荐一下？[zhihu link](https://www.zhihu.com/question/49230922/)
+
 
 
 
