@@ -255,7 +255,7 @@
 
 * 机器学习中的数据预处理有哪些常见/重要的工具？[zhihu link](https://www.zhihu.com/question/38273898)
 
-
+* 机器学习里的弱标签学习，属于半监督学习吗？[zhihu link](https://www.zhihu.com/question/56875030/)
 
 
 
@@ -313,6 +313,8 @@
 
 * 深度学习在路径规划上有哪些应用？[zhihu link](https://www.zhihu.com/question/57456575)
 
+* 弱监督学习在语义分割中的进展与应用?[zhihu link](https://www.zhihu.com/question/53263115/)
+
 
 
 
@@ -369,6 +371,10 @@
 * 能否介绍一下强化学习（Reinforcement Learning），以及与监督学习的不同？[zhihu link](https://www.zhihu.com/question/41775291)
 
 * 强化学习（reinforcement learning)有什么好的开源项目、网站、文章推荐一下？[zhihu link](https://www.zhihu.com/question/49230922/)
+
+
+
+
 
 
 
@@ -489,7 +495,9 @@
 
 * 机器学习在无线通信领域的研究意义？[zhihu link](https://www.zhihu.com/question/296782869)
 
+* 国内有哪些高校在做深度学习芯片方面的研究？[zhihu link](https://www.zhihu.com/question/64578383)
 
+* 机器学习，神经网络在控制科学中的前景和应用大吗？为什么？[zhihu link](https://www.zhihu.com/question/29727968)
 
 
 
@@ -521,11 +529,6 @@
 谁能详细讲解一下TensorFlow Playground所展示的神经网络的概念？[zhihu link](https://www.zhihu.com/question/42995089)
 
 
-弱监督学习在语义分割中的进展与应用?[zhihu link](https://www.zhihu.com/question/53263115/answer/248951505)
-
-
-机器学习里的弱标签学习，属于半监督学习吗？[zhihu link](https://www.zhihu.com/question/56875030/answer/252512840)
-
 
 主动学习（Active Learning）从90年代发展至今，并且具有实质价值的潜力，为什么默默无闻？[zhihu link](https://www.zhihu.com/question/285149644)
 
@@ -536,8 +539,6 @@
 active learning还有人在做这方面的研究吗?[zhihu link](https://www.zhihu.com/question/65263436)
 
 
-国内有哪些高校在做深度学习芯片方面的研究？[zhihu link](https://www.zhihu.com/question/64578383)
-
 
 如何评价Yann LeCun 说的「要研究机器学习，本科应尽量多学物理和数学课」？[zhihu link](https://www.zhihu.com/question/55260138)
 
@@ -546,14 +547,13 @@ active learning还有人在做这方面的研究吗?[zhihu link](https://www.zhi
 
 
 
+有哪些值得关注的控制（动态系统与反馈控制、状态估计等）与机器学习（深度学习、强化学习等）理论上的结合？[zhihu link](https://www.zhihu.com/question/315809187)
 
 
 
 
 
-
-
-
+国内有哪些做强化学习的公司？[zhihu link](https://www.zhihu.com/question/313928115)
 
 
 
