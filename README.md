@@ -551,9 +551,30 @@ active learning还有人在做这方面的研究吗?[zhihu link](https://www.zhi
 
 
 
-
-
 国内有哪些做强化学习的公司？[zhihu link](https://www.zhihu.com/question/313928115)
+
+
+
+深度学习论文中的baseline方法如何调参？[zhihu link](https://www.zhihu.com/question/307805005)
+
+
+
+本人现在研一，想水篇论文毕业，请问怎么在机器学习方面水paper？[zhihu link](https://www.zhihu.com/question/30912132)
+
+
+
+机器学习方面的论文应该在哪找？[zhihu link](https://www.zhihu.com/question/313632967)
+
+
+
+在 Deep Learning 方向，有哪些论文你认为不可错过？[zhihu link](https://www.zhihu.com/question/41182765)
+
+
+
+
+
+
+
 
 
 
