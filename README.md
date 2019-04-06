@@ -91,6 +91,14 @@
 
 * 从事计算机视觉和机器学习的研究，如何获得认知神经科学和脑科学的启发？[zhihu link](https://www.zhihu.com/question/35704088)
 
+* 在 Deep Learning 方向，有哪些论文你认为不可错过？[zhihu link](https://www.zhihu.com/question/41182765)
+
+* 本人现在研一，想水篇论文毕业，请问怎么在机器学习方面水paper？[zhihu link](https://www.zhihu.com/question/30912132)
+
+* 机器学习方面的论文应该在哪找？[zhihu link](https://www.zhihu.com/question/313632967)
+
+
+
 
 
 
@@ -526,6 +534,7 @@
 训练集准确率接近100%，验证集准确率80%但是随着训练step增加不增也不降。算是过拟合还是欠拟合？[zhihu link](https://www.zhihu.com/question/65200055)
 
 
+
 谁能详细讲解一下TensorFlow Playground所展示的神经网络的概念？[zhihu link](https://www.zhihu.com/question/42995089)
 
 
@@ -541,6 +550,7 @@ active learning还有人在做这方面的研究吗?[zhihu link](https://www.zhi
 
 
 如何评价Yann LeCun 说的「要研究机器学习，本科应尽量多学物理和数学课」？[zhihu link](https://www.zhihu.com/question/55260138)
+
 
 
 如何理解fine-grained和coarse-grained？[zhihu link](https://www.zhihu.com/question/299171510)
@@ -559,15 +569,7 @@ active learning还有人在做这方面的研究吗?[zhihu link](https://www.zhi
 
 
 
-本人现在研一，想水篇论文毕业，请问怎么在机器学习方面水paper？[zhihu link](https://www.zhihu.com/question/30912132)
 
-
-
-机器学习方面的论文应该在哪找？[zhihu link](https://www.zhihu.com/question/313632967)
-
-
-
-在 Deep Learning 方向，有哪些论文你认为不可错过？[zhihu link](https://www.zhihu.com/question/41182765)
 
 
 
