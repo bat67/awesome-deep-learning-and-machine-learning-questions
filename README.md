@@ -568,9 +568,9 @@ active learning还有人在做这方面的研究吗?[zhihu link](https://www.zhi
 深度学习论文中的baseline方法如何调参？[zhihu link](https://www.zhihu.com/question/307805005)
 
 
+机器学习需要大量人工标注，尤其是深度学习，有没有什么好办法解决？[zhihu link](https://www.zhihu.com/question/60056259)
 
-
-
+机器学习中用来防止过拟合的方法有哪些？[zhihu link](https://www.zhihu.com/question/59201590)
 
 
 
