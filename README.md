@@ -568,12 +568,28 @@ active learning还有人在做这方面的研究吗?[zhihu link](https://www.zhi
 深度学习论文中的baseline方法如何调参？[zhihu link](https://www.zhihu.com/question/307805005)
 
 
+
 机器学习需要大量人工标注，尤其是深度学习，有没有什么好办法解决？[zhihu link](https://www.zhihu.com/question/60056259)
+
+
 
 机器学习中用来防止过拟合的方法有哪些？[zhihu link](https://www.zhihu.com/question/59201590)
 
 
 
+学习机器学习有哪些好工具推荐？[zhihu link](https://www.zhihu.com/question/20472776)
+
+
+
+推荐系统的模型如何调参？[zhihu link](https://www.zhihu.com/question/319552319)
+
+
+
+目前火热的Deep Learning会灭绝传统的SIFT/ SURF的特征提取的算法吗？[zhihu link](https://www.zhihu.com/question/48315686)
+
+
+
+为什么在实际的kaggle比赛中，GBDT和Random Forest效果非常好？[zhihu link](https://www.zhihu.com/question/51818176)
 
 
 
