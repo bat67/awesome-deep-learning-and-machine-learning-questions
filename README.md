@@ -97,7 +97,7 @@
 
 * 机器学习方面的论文应该在哪找？[zhihu link](https://www.zhihu.com/question/313632967)
 
-
+* 深度学习论文中的baseline方法如何调参？[zhihu link](https://www.zhihu.com/question/307805005)
 
 
 
@@ -423,6 +423,7 @@
 
 * 在你做推荐系统的过程中都遇到过什么坑？[zhihu link](https://www.zhihu.com/question/32218407)
 
+* 推荐系统的模型如何调参？[zhihu link](https://www.zhihu.com/question/319552319)
 
 
 
@@ -565,7 +566,6 @@ active learning还有人在做这方面的研究吗?[zhihu link](https://www.zhi
 
 
 
-深度学习论文中的baseline方法如何调参？[zhihu link](https://www.zhihu.com/question/307805005)
 
 
 
@@ -581,7 +581,6 @@ active learning还有人在做这方面的研究吗?[zhihu link](https://www.zhi
 
 
 
-推荐系统的模型如何调参？[zhihu link](https://www.zhihu.com/question/319552319)
 
 
 
