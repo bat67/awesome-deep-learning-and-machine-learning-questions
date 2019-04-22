@@ -129,6 +129,7 @@
 
 * 有什么深度学习数学基础书推荐？[zhihu link](https://www.zhihu.com/question/41459109)
 
+* 国内外有哪些比较好的人工智能学习平台？[zhihu link](https://www.zhihu.com/question/267305504)
 
 
 
@@ -529,7 +530,6 @@
 机器学习专家与统计学家观点上有哪些不同？[zhihu link](https://www.zhihu.com/question/29687860)
 
 
-国内外有哪些比较好的人工智能学习平台？[zhihu link](https://www.zhihu.com/question/267305504)
 
 
 训练集准确率接近100%，验证集准确率80%但是随着训练step增加不增也不降。算是过拟合还是欠拟合？[zhihu link](https://www.zhihu.com/question/65200055)
@@ -566,9 +566,6 @@ active learning还有人在做这方面的研究吗?[zhihu link](https://www.zhi
 
 
 
-
-
-
 机器学习需要大量人工标注，尤其是深度学习，有没有什么好办法解决？[zhihu link](https://www.zhihu.com/question/60056259)
 
 
@@ -578,9 +575,6 @@ active learning还有人在做这方面的研究吗?[zhihu link](https://www.zhi
 
 
 学习机器学习有哪些好工具推荐？[zhihu link](https://www.zhihu.com/question/20472776)
-
-
-
 
 
 
