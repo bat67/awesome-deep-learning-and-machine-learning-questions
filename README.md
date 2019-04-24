@@ -586,6 +586,16 @@ active learning还有人在做这方面的研究吗?[zhihu link](https://www.zhi
 
 
 
+AI数据标注的未来？[zhihu link](https://www.zhihu.com/question/266510095)
+
+
+
+国外的人工智能领域，数据标注是怎么做的？[zhihu link](https://www.zhihu.com/question/49433475)
+
+
+
+互联网数据标注员是做什么的？有什么发展前途吗？[zhihu link](https://www.zhihu.com/question/30654399)
+
 
 
 
