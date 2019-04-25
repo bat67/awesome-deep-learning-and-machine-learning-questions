@@ -594,7 +594,15 @@ AI数据标注的未来？[zhihu link](https://www.zhihu.com/question/266510095)
 
 
 
+如何看待正在兴起的人工智能产业背后底层数据标注团队和数据工厂？[zhihu link](https://www.zhihu.com/question/292513220)
+
+
+
 互联网数据标注员是做什么的？有什么发展前途吗？[zhihu link](https://www.zhihu.com/question/30654399)
+
+
+
+
 
 
 
