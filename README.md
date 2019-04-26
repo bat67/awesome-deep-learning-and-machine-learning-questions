@@ -602,6 +602,7 @@ AI数据标注的未来？[zhihu link](https://www.zhihu.com/question/266510095)
 
 
 
+请问DeepMind和OpenAI身后的两大RL流派有什么具体的区别？[zhihu link](https://www.zhihu.com/question/316626294)
 
 
 
