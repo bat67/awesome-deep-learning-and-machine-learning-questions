@@ -381,6 +381,7 @@
 
 * 强化学习（reinforcement learning)有什么好的开源项目、网站、文章推荐一下？[zhihu link](https://www.zhihu.com/question/49230922/)
 
+* 请问DeepMind和OpenAI身后的两大RL流派有什么具体的区别？[zhihu link](https://www.zhihu.com/question/316626294)
 
 
 
@@ -602,7 +603,6 @@ AI数据标注的未来？[zhihu link](https://www.zhihu.com/question/266510095)
 
 
 
-请问DeepMind和OpenAI身后的两大RL流派有什么具体的区别？[zhihu link](https://www.zhihu.com/question/316626294)
 
 
 
