@@ -605,7 +605,7 @@ AI数据标注的未来？[zhihu link](https://www.zhihu.com/question/266510095)
 
 
 
-
+深度学习会不会淘汰掉其他所有机器学习算法?[zhihu link](https://www.zhihu.com/question/42061396)
 
 
 
