@@ -149,6 +149,9 @@
 
 * 目前人工智能的主要研究方向都有哪些？[zhihu link](https://www.zhihu.com/question/51419290)
 
+* 谁能详细讲解一下TensorFlow Playground所展示的神经网络的概念？[zhihu link](https://www.zhihu.com/question/42995089)
+
+
 
 
 
@@ -537,14 +540,12 @@
 
 
 
-谁能详细讲解一下TensorFlow Playground所展示的神经网络的概念？[zhihu link](https://www.zhihu.com/question/42995089)
-
-
-
 主动学习（Active Learning）从90年代发展至今，并且具有实质价值的潜力，为什么默默无闻？[zhihu link](https://www.zhihu.com/question/285149644)
 
 
+
 主动学习(Active learning)算法的原理是什么，有哪些比较具体的应用？[zhihu link](https://www.zhihu.com/question/265479171)
+
 
 
 active learning还有人在做这方面的研究吗?[zhihu link](https://www.zhihu.com/question/65263436)
