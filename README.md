@@ -386,6 +386,7 @@
 
 * 请问DeepMind和OpenAI身后的两大RL流派有什么具体的区别？[zhihu link](https://www.zhihu.com/question/316626294)
 
+* 国内有哪些做强化学习的公司？[zhihu link](https://www.zhihu.com/question/313928115)
 
 
 
@@ -564,7 +565,6 @@ active learning还有人在做这方面的研究吗?[zhihu link](https://www.zhi
 
 
 
-国内有哪些做强化学习的公司？[zhihu link](https://www.zhihu.com/question/313928115)
 
 
 
