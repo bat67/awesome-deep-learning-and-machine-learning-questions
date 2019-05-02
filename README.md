@@ -502,6 +502,12 @@
 
 * 深度学习的研究领域是否有被过度夸大？[zhihu link](https://www.zhihu.com/question/27434103)
 
+* 目前火热的Deep Learning会灭绝传统的SIFT/ SURF的特征提取的算法吗？[zhihu link](https://www.zhihu.com/question/48315686)
+
+* 深度学习会不会淘汰掉其他所有机器学习算法?[zhihu link](https://www.zhihu.com/question/42061396)
+
+
+
 
 
 
@@ -513,6 +519,8 @@
 * 国内有哪些高校在做深度学习芯片方面的研究？[zhihu link](https://www.zhihu.com/question/64578383)
 
 * 机器学习，神经网络在控制科学中的前景和应用大吗？为什么？[zhihu link](https://www.zhihu.com/question/29727968)
+
+
 
 
 
@@ -580,7 +588,6 @@ active learning还有人在做这方面的研究吗?[zhihu link](https://www.zhi
 
 
 
-目前火热的Deep Learning会灭绝传统的SIFT/ SURF的特征提取的算法吗？[zhihu link](https://www.zhihu.com/question/48315686)
 
 
 
@@ -606,7 +613,6 @@ AI数据标注的未来？[zhihu link](https://www.zhihu.com/question/266510095)
 
 
 
-深度学习会不会淘汰掉其他所有机器学习算法?[zhihu link](https://www.zhihu.com/question/42061396)
 
 
 
