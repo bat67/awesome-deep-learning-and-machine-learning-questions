@@ -18,6 +18,7 @@
     - [面试与工作](#面试与工作)
     - [行业与产品](#行业与产品)
     - [思考与展望](#思考与展望)
+    - [数据标注](#数据标注)
     - [其他应用](#其他应用)
     - [未整理](#未整理)
   - [TODO](#todo)
@@ -512,6 +513,24 @@
 
 
 
+### 数据标注
+
+* 机器学习需要大量人工标注，尤其是深度学习，有没有什么好办法解决？[zhihu link](https://www.zhihu.com/question/60056259)
+
+* 如何看待正在兴起的人工智能产业背后底层数据标注团队和数据工厂？[zhihu link](https://www.zhihu.com/question/292513220)
+
+* 互联网数据标注员是做什么的？有什么发展前途吗？[zhihu link](https://www.zhihu.com/question/30654399)
+
+* AI数据标注的未来？[zhihu link](https://www.zhihu.com/question/266510095)
+
+* 国外的人工智能领域，数据标注是怎么做的？[zhihu link](https://www.zhihu.com/question/49433475)
+
+
+
+
+
+
+
 ### 其他应用
 
 * 机器学习在无线通信领域的研究意义？[zhihu link](https://www.zhihu.com/question/296782869)
@@ -519,6 +538,11 @@
 * 国内有哪些高校在做深度学习芯片方面的研究？[zhihu link](https://www.zhihu.com/question/64578383)
 
 * 机器学习，神经网络在控制科学中的前景和应用大吗？为什么？[zhihu link](https://www.zhihu.com/question/29727968)
+
+
+
+
+
 
 
 
@@ -576,7 +600,6 @@ active learning还有人在做这方面的研究吗?[zhihu link](https://www.zhi
 
 
 
-机器学习需要大量人工标注，尤其是深度学习，有没有什么好办法解决？[zhihu link](https://www.zhihu.com/question/60056259)
 
 
 
@@ -592,24 +615,6 @@ active learning还有人在做这方面的研究吗?[zhihu link](https://www.zhi
 
 
 为什么在实际的kaggle比赛中，GBDT和Random Forest效果非常好？[zhihu link](https://www.zhihu.com/question/51818176)
-
-
-
-AI数据标注的未来？[zhihu link](https://www.zhihu.com/question/266510095)
-
-
-
-国外的人工智能领域，数据标注是怎么做的？[zhihu link](https://www.zhihu.com/question/49433475)
-
-
-
-如何看待正在兴起的人工智能产业背后底层数据标注团队和数据工厂？[zhihu link](https://www.zhihu.com/question/292513220)
-
-
-
-互联网数据标注员是做什么的？有什么发展前途吗？[zhihu link](https://www.zhihu.com/question/30654399)
-
-
 
 
 
