@@ -597,12 +597,6 @@ active learning还有人在做这方面的研究吗?[zhihu link](https://www.zhi
 
 
 
-
-
-
-
-
-
 机器学习中用来防止过拟合的方法有哪些？[zhihu link](https://www.zhihu.com/question/59201590)
 
 
@@ -611,10 +605,17 @@ active learning还有人在做这方面的研究吗?[zhihu link](https://www.zhi
 
 
 
-
-
-
 为什么在实际的kaggle比赛中，GBDT和Random Forest效果非常好？[zhihu link](https://www.zhihu.com/question/51818176)
+
+
+
+为什么机器学习中, 要假设我们的数据是独立同分布的?[zhihu link](https://www.zhihu.com/question/41222495)
+
+
+
+关于强化学习中经验回放（experience replay）的两个问题？[zhihu link](https://www.zhihu.com/question/278182581)
+
+
 
 
 
