@@ -270,6 +270,11 @@
 
 * 机器学习里的弱标签学习，属于半监督学习吗？[zhihu link](https://www.zhihu.com/question/56875030/)
 
+* 为什么机器学习中, 要假设我们的数据是独立同分布的?[zhihu link](https://www.zhihu.com/question/41222495)
+
+
+
+
 
 
 
@@ -389,6 +394,7 @@
 
 * 国内有哪些做强化学习的公司？[zhihu link](https://www.zhihu.com/question/313928115)
 
+* 关于强化学习中经验回放（experience replay）的两个问题？[zhihu link](https://www.zhihu.com/question/278182581)
 
 
 
@@ -609,11 +615,9 @@ active learning还有人在做这方面的研究吗?[zhihu link](https://www.zhi
 
 
 
-为什么机器学习中, 要假设我们的数据是独立同分布的?[zhihu link](https://www.zhihu.com/question/41222495)
 
 
 
-关于强化学习中经验回放（experience replay）的两个问题？[zhihu link](https://www.zhihu.com/question/278182581)
 
 
 
