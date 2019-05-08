@@ -272,7 +272,9 @@
 
 * 为什么机器学习中, 要假设我们的数据是独立同分布的?[zhihu link](https://www.zhihu.com/question/41222495)
 
+* 机器学习中用来防止过拟合的方法有哪些？[zhihu link](https://www.zhihu.com/question/59201590)
 
+* 训练集准确率接近100%，验证集准确率80%但是随着训练step增加不增也不降。算是过拟合还是欠拟合？[zhihu link](https://www.zhihu.com/question/65200055)
 
 
 
@@ -575,7 +577,6 @@
 
 
 
-训练集准确率接近100%，验证集准确率80%但是随着训练step增加不增也不降。算是过拟合还是欠拟合？[zhihu link](https://www.zhihu.com/question/65200055)
 
 
 
@@ -603,7 +604,6 @@ active learning还有人在做这方面的研究吗?[zhihu link](https://www.zhi
 
 
 
-机器学习中用来防止过拟合的方法有哪些？[zhihu link](https://www.zhihu.com/question/59201590)
 
 
 
