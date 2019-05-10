@@ -21,7 +21,6 @@
     - [数据标注](#数据标注)
     - [其他应用](#其他应用)
     - [未整理](#未整理)
-  - [TODO](#todo)
 
 # Awesome Deep Learning / Machine Learning / Data Science / Reinforcement Learning Questions
 
@@ -623,11 +622,4 @@ active learning还有人在做这方面的研究吗?[zhihu link](https://www.zhi
 
 
 
-
-
-
-
-## TODO
-* 是不是除了问题链接还要附上问题相应的一些优秀的答案呢（有时间的话）？
-* 继续增加问题，并将所有问题归类（具体按什么类别归类？）
 
