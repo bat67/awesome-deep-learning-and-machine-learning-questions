@@ -575,7 +575,7 @@
 
 
 
-
+有图像标注工具推荐或者分享吗？[zhihu link](https://www.zhihu.com/question/30626971)
 
 
 
@@ -602,7 +602,7 @@ active learning还有人在做这方面的研究吗?[zhihu link](https://www.zhi
 有哪些值得关注的控制（动态系统与反馈控制、状态估计等）与机器学习（深度学习、强化学习等）理论上的结合？[zhihu link](https://www.zhihu.com/question/315809187)
 
 
-
+文本情感分析有什么好资料、网站、工具推荐呢？[zhihu link](https://www.zhihu.com/question/20631050)
 
 
 
