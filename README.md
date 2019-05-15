@@ -131,6 +131,7 @@
 
 * 国内外有哪些比较好的人工智能学习平台？[zhihu link](https://www.zhihu.com/question/267305504)
 
+* 学习机器学习有哪些好工具推荐？[zhihu link](https://www.zhihu.com/question/20472776)
 
 
 
@@ -358,6 +359,7 @@
 
 * 在NLP领域，现阶段最有希望突破深度学习牢笼的研究/思路有哪些？[zhihu link](https://www.zhihu.com/question/265118704)
 
+* 文本情感分析有什么好资料、网站、工具推荐呢？[zhihu link](https://www.zhihu.com/question/20631050)
 
 
 
@@ -600,13 +602,6 @@ active learning还有人在做这方面的研究吗?[zhihu link](https://www.zhi
 
 
 有哪些值得关注的控制（动态系统与反馈控制、状态估计等）与机器学习（深度学习、强化学习等）理论上的结合？[zhihu link](https://www.zhihu.com/question/315809187)
-
-
-文本情感分析有什么好资料、网站、工具推荐呢？[zhihu link](https://www.zhihu.com/question/20631050)
-
-
-
-学习机器学习有哪些好工具推荐？[zhihu link](https://www.zhihu.com/question/20472776)
 
 
 
