@@ -534,6 +534,7 @@
 
 * 国外的人工智能领域，数据标注是怎么做的？[zhihu link](https://www.zhihu.com/question/49433475)
 
+* 有图像标注工具推荐或者分享吗？[zhihu link](https://www.zhihu.com/question/30626971)
 
 
 
@@ -577,7 +578,6 @@
 
 
 
-有图像标注工具推荐或者分享吗？[zhihu link](https://www.zhihu.com/question/30626971)
 
 
 
