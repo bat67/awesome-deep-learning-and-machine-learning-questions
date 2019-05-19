@@ -13,6 +13,7 @@
     - [计算机视觉](#计算机视觉)
     - [自然语言处理](#自然语言处理)
     - [强化学习](#强化学习)
+    - [主动学习](#主动学习)
     - [数据科学](#数据科学)
     - [推荐系统](#推荐系统)
     - [面试与工作](#面试与工作)
@@ -280,6 +281,10 @@
 
 
 
+
+
+
+
 ### 神经网络与深度学习
 
 * 深度学习调参有哪些技巧？[zhihu link](https://www.zhihu.com/question/25097993) 
@@ -405,6 +410,20 @@
 
 
 
+### 主动学习
+
+* 主动学习（Active Learning）从90年代发展至今，并且具有实质价值的潜力，为什么默默无闻？[zhihu link](https://www.zhihu.com/question/285149644)
+
+* 主动学习(Active learning)算法的原理是什么，有哪些比较具体的应用？[zhihu link](https://www.zhihu.com/question/265479171)
+
+* active learning还有人在做这方面的研究吗?[zhihu link](https://www.zhihu.com/question/65263436)
+
+
+
+
+
+
+
 
 
 
@@ -440,6 +459,9 @@
 * 在你做推荐系统的过程中都遇到过什么坑？[zhihu link](https://www.zhihu.com/question/32218407)
 
 * 推荐系统的模型如何调参？[zhihu link](https://www.zhihu.com/question/319552319)
+
+
+
 
 
 
@@ -522,6 +544,9 @@
 
 
 
+
+
+
 ### 数据标注
 
 * 机器学习需要大量人工标注，尤其是深度学习，有没有什么好办法解决？[zhihu link](https://www.zhihu.com/question/60056259)
@@ -535,6 +560,11 @@
 * 国外的人工智能领域，数据标注是怎么做的？[zhihu link](https://www.zhihu.com/question/49433475)
 
 * 有图像标注工具推荐或者分享吗？[zhihu link](https://www.zhihu.com/question/30626971)
+
+
+
+
+
 
 
 
@@ -577,32 +607,13 @@
 机器学习专家与统计学家观点上有哪些不同？[zhihu link](https://www.zhihu.com/question/29687860)
 
 
-
-
-
-
-主动学习（Active Learning）从90年代发展至今，并且具有实质价值的潜力，为什么默默无闻？[zhihu link](https://www.zhihu.com/question/285149644)
-
-
-
-主动学习(Active learning)算法的原理是什么，有哪些比较具体的应用？[zhihu link](https://www.zhihu.com/question/265479171)
-
-
-
-active learning还有人在做这方面的研究吗?[zhihu link](https://www.zhihu.com/question/65263436)
-
-
-
 如何评价Yann LeCun 说的「要研究机器学习，本科应尽量多学物理和数学课」？[zhihu link](https://www.zhihu.com/question/55260138)
-
 
 
 如何理解fine-grained和coarse-grained？[zhihu link](https://www.zhihu.com/question/299171510)
 
 
-
 有哪些值得关注的控制（动态系统与反馈控制、状态估计等）与机器学习（深度学习、强化学习等）理论上的结合？[zhihu link](https://www.zhihu.com/question/315809187)
-
 
 
 为什么在实际的kaggle比赛中，GBDT和Random Forest效果非常好？[zhihu link](https://www.zhihu.com/question/51818176)
