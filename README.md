@@ -16,7 +16,7 @@
     - [主动学习](#主动学习)
     - [数据科学](#数据科学)
     - [推荐系统](#推荐系统)
-    - [面试与工作](#面试与工作)
+    - [比赛、面试与工作](#比赛面试与工作)
     - [行业与产品](#行业与产品)
     - [思考与展望](#思考与展望)
     - [数据标注](#数据标注)
@@ -470,7 +470,7 @@
 
 
 
-### 面试与工作
+### 比赛、面试与工作
 
 * 面试官如何判断面试者的机器学习水平？[zhihu link](https://www.zhihu.com/question/62482926)
 
@@ -480,6 +480,7 @@
 
 * 从事AI真的需要CS科班出身吗？[zhihu link](https://www.zhihu.com/question/305531586)
 
+* 为什么在实际的kaggle比赛中，GBDT和Random Forest效果非常好？[zhihu link](https://www.zhihu.com/question/51818176)
 
 
 
@@ -616,7 +617,6 @@
 有哪些值得关注的控制（动态系统与反馈控制、状态估计等）与机器学习（深度学习、强化学习等）理论上的结合？[zhihu link](https://www.zhihu.com/question/315809187)
 
 
-为什么在实际的kaggle比赛中，GBDT和Random Forest效果非常好？[zhihu link](https://www.zhihu.com/question/51818176)
 
 
 
