@@ -404,7 +404,7 @@
 
 * 关于强化学习中经验回放（experience replay）的两个问题？[zhihu link](https://www.zhihu.com/question/278182581)
 
-
+* 如何用简单例子讲解 Q - learning 的具体过程？[zhihu link](https://www.zhihu.com/question/26408259)
 
 
 
