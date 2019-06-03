@@ -621,10 +621,25 @@
 有哪些值得关注的控制（动态系统与反馈控制、状态估计等）与机器学习（深度学习、强化学习等）理论上的结合？[zhihu link](https://www.zhihu.com/question/315809187)
 
 
+机器学习（包括但不限于深度学习）算法的 fundamental limitation 有哪些？[zhihu link](https://www.zhihu.com/question/303886191)
 
 
+机器学习方向的研究生是否需要学习研发岗知识？[zhihu link](https://www.zhihu.com/question/324066869)
 
 
+要研究深度学习的可解释性（Interpretability)，应从哪几个方面着手？[zhihu link](https://www.zhihu.com/question/320688440)
+
+
+现代人工神经网络是不是一个死胡同？这个技术是不是骗人的？[zhihu link](https://www.zhihu.com/question/324684293)
+
+
+如今神经网络快速发展，传统的机器学习何去何从？[zhihu link](https://www.zhihu.com/question/323689418)
+
+
+Deep Learning 可以用来做推荐系统吗？[zhihu link](https://www.zhihu.com/question/20830906)
+
+
+遗传算法和深度强化学习的结合会是新的方向吗？[zhihu link](https://www.zhihu.com/question/61174186)
 
 
 
