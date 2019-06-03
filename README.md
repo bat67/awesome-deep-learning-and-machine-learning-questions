@@ -42,6 +42,10 @@
 
 ### 论文与科研
 
+* CVPR 2019 有哪些值得关注的亮点？[zhihu link](https://www.zhihu.com/question/313967271)
+
+* 如何评价谷歌大脑的EfficientNet？[zhihu link](https://www.zhihu.com/question/326833457)
+
 * 如何复现renset-based FCN的准确度（IoU）？[zhihu link](https://www.zhihu.com/question/291057041)
 
 * 深度学习方面的科研工作中的实验代码有什么规范和写作技巧？如何妥善管理实验数据？[zhihu link](https://www.zhihu.com/question/268193800)
