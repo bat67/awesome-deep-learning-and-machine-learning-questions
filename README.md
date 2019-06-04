@@ -410,6 +410,11 @@
 
 * 如何用简单例子讲解 Q - learning 的具体过程？[zhihu link](https://www.zhihu.com/question/26408259)
 
+* 遗传算法和深度强化学习的结合会是新的方向吗？[zhihu link](https://www.zhihu.com/question/61174186)
+
+
+
+
 
 
 
@@ -464,6 +469,7 @@
 
 * 推荐系统的模型如何调参？[zhihu link](https://www.zhihu.com/question/319552319)
 
+* Deep Learning 可以用来做推荐系统吗？[zhihu link](https://www.zhihu.com/question/20830906)
 
 
 
@@ -636,10 +642,8 @@
 如今神经网络快速发展，传统的机器学习何去何从？[zhihu link](https://www.zhihu.com/question/323689418)
 
 
-Deep Learning 可以用来做推荐系统吗？[zhihu link](https://www.zhihu.com/question/20830906)
 
 
-遗传算法和深度强化学习的结合会是新的方向吗？[zhihu link](https://www.zhihu.com/question/61174186)
 
 
 
